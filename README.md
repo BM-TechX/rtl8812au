@@ -1,3 +1,8 @@
+CHECK:
+
+https://www.forecr.io/blogs/connectivity/tp-link-ac600-ac1300-archer-t2u-t3u-driver-installation-for-jetson-modules
+
+
 ## RTL8812AU/21AU and RTL8814AU Wireless drivers
 Only for use with Linux & Android
 
